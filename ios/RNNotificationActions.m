@@ -196,4 +196,9 @@ RCT_EXPORT_METHOD(callCompletionHandler)
     [self registerNotificationSettings];
 }
 
++ (BOOL)requiresMainQueueSetup
+{
+    return YES;
+}
+
 @end
