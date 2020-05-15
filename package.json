@@ -1,6 +1,6 @@
 {
   "name": "react-native-ios-notification-actions",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Swipe + text input actions for ios push notifications",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robertherber/react-native-ios-notification-actions.git"
+    "url": "git+https://github.com/nvojnovic/react-native-ios-notification-actions.git"
   },
   "keywords": [
     "react-component",
@@ -24,7 +24,7 @@
   "author": "Robert Herber <robert@herber.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/robertherber/react-native-ios-notification-actions/issues"
+    "url": "https://github.com/nvojnovic/react-native-ios-notification-actions/issues"
   },
-  "homepage": "https://github.com/robertherber/react-native-ios-notification-actions#readme"
+  "homepage": "https://github.com/nvojnovic/react-native-ios-notification-actions#readme"
 }
